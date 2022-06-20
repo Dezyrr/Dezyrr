@@ -24,8 +24,8 @@
 ```
 
 # Past & Fun Projects:
-```
-- Classification CSGO 
-- Classification RGH/JTAG tool (https://github.com/Dezyrr/Classification-RGH-tool)
-- Classification Multi-CoD GSC Mod Menu
-```
+
+- Classification CSGO <br />
+- [Classification RGH/JTAG tool](https://github.com/Dezyrr/Classification-RGH-tool)<br />
+- Classification Multi-CoD GSC Mod Menu<br />
+
