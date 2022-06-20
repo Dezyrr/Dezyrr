@@ -11,11 +11,10 @@
 
 ## Languages:
 ```
-- C++
-- C#
-- Lua
-- Javascript
-
+- #C++
+- #C#
+- #Lua
+- #Javascript
 ```
 
 ## Main Projects:
