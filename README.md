@@ -9,20 +9,20 @@
 -> Work Course: Software & Web Development Level 3
 ```
 
-## Languages:
+# Languages:
 ```
-- #C++
-- #C#
-- #Lua
-- #Javascript
+- C++
+- C#
+- Lua
+- Javascript
 ```
 
-## Main Projects:
+# Main Projects:
 ```
 - Archeda.xyz (Multi-Software Provider)
 ```
 
-## Past & Fun Projects:
+# Past & Fun Projects:
 ```
 - Classification CSGO
 - Classification RGH/JTAG tool
