@@ -25,7 +25,7 @@
 
 # Past & Fun Projects:
 ```
-- Classification CSGO
+- Classification CSGO ([Archeda](https://archeda.xyz/forums/index.php?members/desire.1))
 - Classification RGH/JTAG tool
 - Classification Multi-CoD GSC Mod Menu
 ```
