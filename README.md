@@ -9,6 +9,15 @@
 -> Work Course: Software & Web Development Level 3
 ```
 
+## Languages:
+```
+- C++
+- C#
+- Lua
+- Javascript
+
+```
+
 ## Main Projects:
 ```
 - Archeda.xyz (Multi-Software Provider)
