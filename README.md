@@ -5,8 +5,6 @@
 
 -> Age: 18<br />
 -> Name: Desire<br />
--> Work Place: College<br />
--> Work Course: Hardware, Software & Web Development Level 3<br />
 
 # Languages:
 
