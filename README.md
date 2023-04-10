@@ -17,6 +17,7 @@
 # Main Projects:
 
 - [Archeda.xyz (Multi-Software Provider)](https://archeda.xyz)<br />
+- [VEC3_T (CS:GO Legacy HvH 2018)]<br />
 
 # Past & Fun Projects:
 
