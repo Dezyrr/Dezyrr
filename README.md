@@ -1,5 +1,3 @@
-## 🌹 Welcome to my profile 🌹
-
 [YouTube](https://www.youtube.com/c/Desire2K17)<br />
 
 -> Age: 20<br />
