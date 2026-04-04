@@ -9,6 +9,7 @@
 - GSC (Basically just C++ but scripting 🙏😁)<br />
 - C# (A little)<br />
 - Lua<br />
+- Learning Java
 
 
 # Current Projects:
